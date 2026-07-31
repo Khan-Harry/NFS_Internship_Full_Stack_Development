@@ -111,17 +111,11 @@ d:/Projects/NFS_Internship_Full_Stack_Development/
 
 ---
 
-## 🌐 Deployment Instructions
+## 🌐 Deployment
 
-### Deploy to Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run `vercel` in the project root directory and follow the prompts.
-3. Your app will be deployed with automatic HTTPS and global CDN.
+### Live Deployment
+- Vercel Live Link: https://nfs-internship-full-stack-developme-self.vercel.app/
 
-### Deploy to Netlify
-1. Connect your repository to Netlify.
-2. Set Build Command: `npm run build`
-3. Set Publish Directory: `dist`
 
 ---
 
