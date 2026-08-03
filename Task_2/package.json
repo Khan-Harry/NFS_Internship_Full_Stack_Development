@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/Task_2",
+  "homepage": "https://khan-harry.github.io/NFS_Internship_Full_Stack_Development",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
