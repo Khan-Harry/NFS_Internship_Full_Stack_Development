@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // Change this to match your GitHub repo name if different.
 export default defineConfig({
   plugins: [react()],
-  base: '/Task_2/',
+  base: '/NFS_Internship_Full_Stack_Development/',
 })
